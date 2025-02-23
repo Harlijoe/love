@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "masa sih ga kangen? :(",
-        image: "https://pin.it/1OVmogatP"
+        image: "https://honkai-star-rail.fandom.com/wiki/File:Sticker_PPG_01_March_7th_13.png"
     },
     {
         text: "jangan bohong ih kangen kan?",
